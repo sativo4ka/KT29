@@ -10,10 +10,13 @@
 
 Проверка 2. Ограничение ковариантности интерфейса:
 было:
+
 <img width="267" height="136" alt="{37AA1768-8FD0-4BDB-8B36-8F5E9E504127}" src="https://github.com/user-attachments/assets/71edeba8-2b89-4552-9282-6e1f40f1713a" />
 
 стало:
+
 <img width="305" height="198" alt="{137845FC-A664-4EBF-BA63-2370AC66411C}" src="https://github.com/user-attachments/assets/e30119cd-b3f3-4f43-9e43-f5c339d94138" />
 
 вылезли такие ошибки:
+
 <img width="950" height="41" alt="{41F29738-D365-433C-B58E-387AA44CFB09}" src="https://github.com/user-attachments/assets/ed64eb12-226d-4307-9ed9-e76283df3d52" />
